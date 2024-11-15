@@ -1,2 +1,4 @@
 npx @react-native-community/cli init Test
 npm start android
+android>local.properties
+sdk.dir =C\:\\Users\\OMEN\\AppData\\Local\\Android\\Sdk
