@@ -7,3 +7,5 @@ PS C:\Users\OMEN\OneDrive\Desktop\React-Native> npx @react-native-community/cli 
 cd android
 ./gradlew clean
 ./gradlew build
+
+rmdir .git
