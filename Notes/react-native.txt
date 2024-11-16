@@ -1,5 +1,4 @@
-npx @react-native-community/cli init Test
-npm start android
+wnpm start android
 android>local.properties
 sdk.dir =C\:\\Users\\OMEN\\AppData\\Local\\Android\\Sdk
 PS C:\Users\OMEN\OneDrive\Desktop\React-Native> npx @react-native-community/cli init TestProject752 --version 0.75.2
@@ -9,3 +8,5 @@ cd android
 ./gradlew build
 
 rmdir .git
+
+adb devices

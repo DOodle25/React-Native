@@ -10,8 +10,22 @@
     "test": "jest"
   },
   "dependencies": {
+    "@miblanchard/react-native-slider": "^2.6.0",
+    "@react-navigation/native": "^7.0.3",
+    "@react-navigation/stack": "^7.0.3",
+    "axios": "^1.7.7",
     "react": "18.3.1",
-    "react-native": "0.75.2"
+    "react-native": "0.75.2",
+    "react-native-gesture-handler": "^2.21.0",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-paper": "^5.12.5",
+    "react-native-safe-area-context": "^4.14.0",
+    "react-native-screens": "^4.1.0",
+    "react-native-sound": "^0.11.2",
+    "react-native-track-player": "^4.1.1",
+    "react-native-vector-icons": "^10.2.0",
+    "react-native-video": "^6.7.0",
+    "rn-sliding-up-panel": "^2.4.6"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
